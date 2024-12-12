@@ -1,0 +1,14 @@
+C:\Users\mrzek\DawProgramacio\boxe1\boxe1\bin\Debug\net8.0\boxe1.exe
+C:\Users\mrzek\DawProgramacio\boxe1\boxe1\bin\Debug\net8.0\boxe1.deps.json
+C:\Users\mrzek\DawProgramacio\boxe1\boxe1\bin\Debug\net8.0\boxe1.runtimeconfig.json
+C:\Users\mrzek\DawProgramacio\boxe1\boxe1\bin\Debug\net8.0\boxe1.dll
+C:\Users\mrzek\DawProgramacio\boxe1\boxe1\bin\Debug\net8.0\boxe1.pdb
+C:\Users\mrzek\DawProgramacio\boxe1\boxe1\obj\Debug\net8.0\boxe1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrzek\DawProgramacio\boxe1\boxe1\obj\Debug\net8.0\boxe1.AssemblyInfoInputs.cache
+C:\Users\mrzek\DawProgramacio\boxe1\boxe1\obj\Debug\net8.0\boxe1.AssemblyInfo.cs
+C:\Users\mrzek\DawProgramacio\boxe1\boxe1\obj\Debug\net8.0\boxe1.csproj.CoreCompileInputs.cache
+C:\Users\mrzek\DawProgramacio\boxe1\boxe1\obj\Debug\net8.0\boxe1.dll
+C:\Users\mrzek\DawProgramacio\boxe1\boxe1\obj\Debug\net8.0\refint\boxe1.dll
+C:\Users\mrzek\DawProgramacio\boxe1\boxe1\obj\Debug\net8.0\boxe1.pdb
+C:\Users\mrzek\DawProgramacio\boxe1\boxe1\obj\Debug\net8.0\boxe1.genruntimeconfig.cache
+C:\Users\mrzek\DawProgramacio\boxe1\boxe1\obj\Debug\net8.0\ref\boxe1.dll
